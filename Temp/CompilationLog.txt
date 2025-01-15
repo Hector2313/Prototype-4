@@ -1,2 +1,30 @@
+# Starting compiling UnityEngine.TestRunner.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-013b3acfcf131458a9cfc52a88dd1991
+# Starting compiling UnityEngine.UI.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5baad45b9aa854a51891a721de5247e6
+# Starting compiling UnityEditor.TestRunner.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e00d6d2eec32d4c77a235d9bc571305e
+# Starting compiling UnityEditor.UI.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8dee76cb76fb248babf7b192114cb21f
+# Starting compiling Unity.Services.Core.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-e177d6daa37e545ebbe9e26b6412492a
+# Starting compiling Unity.VSCode.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-a04365cb746ec47c1a9f975c6c8386f5
+# Starting compiling Unity.VisualStudio.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-48e6e4b9a6e574e669a0c449648ae5ac
+# Starting compiling Unity.Timeline.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6742e7cb14a16422bba9e1fdc00cddc6
+# Starting compiling Unity.TextMeshPro.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-70fb1a2781818486cbfce16f2104b918
+# Starting compiling Unity.PlasticSCM.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-dd5da186b8bb740c398a5d2a7108231e
+# Starting compiling Unity.Rider.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fb3f2692df51b48f38b035ad8a6f8d20
+# Starting compiling Unity.Timeline.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7245223a969b44862bd4c1d2bdd0c12f
+# Starting compiling Unity.CollabProxy.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-f6d9bf10a21dc4b93ac22289fc62f58b
+# Starting compiling Unity.TextMeshPro.Editor.dll
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-fa1cf1b645e7f4e43874b8897949ec6e
 # Starting compiling Assembly-CSharp.dll
-/Applications/2020.3.27f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4a228ccc461e344c1a484a1c3ee21693
+/private/var/folders/2j/g_9h6gsn5bxd3jslgtnpthmc0000gw/T/AppTranslocation/0BE989EA-2FDC-4627-8851-71BAAAF4B795/d/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8256a37735f854dccbd69e8b256719af
